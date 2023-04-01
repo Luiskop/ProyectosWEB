@@ -1,0 +1,10 @@
+header{
+    background-color: black;
+    display: flex;
+}
+.logo{
+    display: flex;
+}
+.logo img{
+    height: 5vh;
+}

@@ -1,0 +1,10 @@
+:root {
+  --color1: #f8b78b;
+}
+
+body {
+  font-family: sans-serif;
+  background-color: var(--color1);
+  background-image: url(/fondoTop.svg) url(/fondoBotton.svg);
+  background-size: 50px;
+}
